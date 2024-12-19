@@ -1,4 +1,4 @@
-# Key Contributions and Achievements
+# Key Contributions and Achievements as a Software Engineer at Deutsche Bank
 
 ## L3 Production Support for Trading Platform
 - Acted as the primary point of contact for weekly platform issue resolutions, ensuring system reliability and minimal downtime.
